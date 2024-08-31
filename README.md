@@ -1,3 +1,11 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/019cc4985e3f44198fbdf95670528128)](https://app.codacy.com/gh/Abhinav330/Network-Analysis-Facebook-Friends/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Network-Analysis-Facebook-Friends/matplotlib?color=yellow)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Network-Analysis-Facebook-Friends/networkx?color=green)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Network-Analysis-Facebook-Friends/pandas?color=orange)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Network-Analysis-Facebook-Friends/numpy?color=green)
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/Abhinav330/Network-Analysis-Facebook-Friends?color=dark%20green)
+![GitHub repo size](https://img.shields.io/github/repo-size/Abhinav330/Network-Analysis-Facebook-Friends)
+
 
 
 # Facebook Network Analysis
